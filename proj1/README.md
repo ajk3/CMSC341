@@ -1,4 +1,6 @@
 In this project, I created and implemented queue and circular linked list.
+...
 compile and run the program from linux terminal
 to compile type make
 to run the program type make run
+...
