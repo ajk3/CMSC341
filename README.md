@@ -1,2 +1,2 @@
-# CMSC341
-Projects I did for my CMCS341 class
+# CMSC341 
+projects I did for my DS class
